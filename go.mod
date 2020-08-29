@@ -1,4 +1,4 @@
-module github.com/JingdaMai/bookstore_oatuh-go
+module github.com/JingdaMai/bookstore_oauth-go
 
 go 1.12
 
